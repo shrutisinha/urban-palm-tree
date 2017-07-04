@@ -4,6 +4,6 @@ class Dummy{
 }
 public class HelloWorld{
 	Dummy obj=new Dummy();
-	obj.s=5;
+	obj.s=9;
 	System.out.println("Hello World "+ obj.s);
 }
